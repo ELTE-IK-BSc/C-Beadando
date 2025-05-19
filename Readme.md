@@ -1,7 +1,5 @@
 # C Beadandó
 
-Ne feledd, legalább 10 pontot el kell érni a beadandón a tárgy sikeres teljesítéséhez. A nem forduló megoldásra automatikusan 0 pont jár.
-
 Olvass be egy számokból álló fájlt, amiről nem tudjuk, hogy mennyi számot tartalmaz!
 
 Egy lehetséges input.txt fájl:
@@ -29,3 +27,5 @@ Tehát fenti mintára a képernyő kimenet:
 Az output.txt fájl pedig:
 
 ```-9 33```
+
+(Ne feledd, legalább 10 pontot el kell érni a beadandón a tárgy sikeres teljesítéséhez. A nem forduló megoldásra automatikusan 0 pont jár.)
