@@ -8,7 +8,9 @@ Egy lehetséges input.txt fájl:
 
 
 ```2 6 4 33 32 2 6 4 34 32```
+
 ```2 -9```
+
 ```100 100```
 
 Az input fájl neve fixen: input.txt
